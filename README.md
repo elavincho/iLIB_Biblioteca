@@ -4,10 +4,9 @@
 Este proyecto es un sistema para la administración de una **Biblioteca** el cual permite la carga de *Libros* con todos sus datos, además de permitir realizar prestamos y devoluciones.
 
 ## Tecnologías utilizadas
-- **Backend**:
-  - Java Swing
-  - JDBC
-  - MySQL
+- Java Swing
+- JDBC
+- MySQL
 
 ## Objetivo del Proyecto
 
