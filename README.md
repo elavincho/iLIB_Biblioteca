@@ -33,13 +33,13 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Bibliotec
 - Modificación
 - Vista
 
-### Devolucion de libro
-- Devolución por número de folio
-- Devolución por id del libro
-
 ### Prestamo de libro
 - Prestamos por número de folio
 - Prestamos por id del libro
+
+### Devolución de libro
+- Devolución por número de folio
+- Devolución por id del libro
 
 ### Reportes
 - Reportes con los datos del lector, libro, fecha de salida y entrega
