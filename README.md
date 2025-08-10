@@ -59,3 +59,6 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Bibliotec
                           <img src="https://github.com/elavincho/iLIB_Biblioteca/blob/master/img/Captura_de_pantalla_12.png" width="200" height="200" alt="img"/>
 
 
+## Video del proyecto
+
+[![Video tutorial]()](https://youtu.be/YN8t1GfLFkY)
