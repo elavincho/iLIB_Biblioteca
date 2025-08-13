@@ -24,13 +24,13 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Bibliotec
 - Alta
 - Baja
 - Modificación
-- Vista
+- Lectura
 
 ### Usuarios
 - Alta
 - Baja
 - Modificación
-- Vista
+- Lectura
 
 ### Prestamo de libro
 - Prestamos por número de folio
