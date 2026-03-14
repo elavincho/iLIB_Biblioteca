@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/prWKFsfY/calculadora.png" width="100" height="75" alt="calculadora"/>
+
 
 # Aplicación de Escritorio para la administración de una **Biblioteca**
 
